@@ -1,5 +1,5 @@
 # DataAnalytics-Visualization
-A basic data analysis and visualization project.
+A basic data analysis and visualization project as part of a tutorial series I found online.
 
 Plotting different types of graphs and seeing what's possible during the data pre-processing pipeline.
 
